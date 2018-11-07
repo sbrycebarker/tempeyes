@@ -1,0 +1,74 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AdvertisingScript-Bold
+FamilyName:Advertising Script
+StyleName:Bold
+MenuName:Advertising Script
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Advertising Script Bold
+WritingScript:Roman
+OutlineFileName:/Volumes/My Passport/- EYS Magazine/EYS_Subscription_18 Folder/Document fonts/Advertising Script Bold Trial.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:297668
+FileModTime:490207154
+NameArray:0,Mac,18,Advertising Script Bold
+NameArray:0,Mac,4,Advertising Script Bold
+NameArray:0,Win,1,Advertising Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ButtercupSample
+FamilyName:Buttercup Sample
+StyleName:Regular
+MenuName:Buttercup Sample
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Buttercup Sample 
+WritingScript:Roman
+OutlineFileName:/Volumes/My Passport/- EYS Magazine/EYS_Subscription_18 Folder/Document fonts/buttercup_sample.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:337376
+FileModTime:492652168
+NameArray:0,Mac,18,Buttercup Sample 
+NameArray:0,Mac,4,Buttercup Sample 
+NameArray:0,Win,1,Buttercup Sample
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Wingdings-Regular
+FamilyName:Wingdings
+StyleName:Regular
+MenuName:Wingdings
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Wingdings
+WritingScript:Roman
+OutlineFileName:/Volumes/My Passport/- EYS Magazine/EYS_Subscription_18 Folder/Document fonts/Wingdings.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:86384
+FileModTime:448444148
+NameArray:0,Mac,4,Wingdings
+NameArray:0,Win,1,Wingdings
+%EndFont
+
